@@ -1,0 +1,58 @@
+a {
+	text-decoration: none;
+}
+
+#SlaveId {
+	font-size: 30px;
+}
+
+#MainTable {
+	width: 100%;
+	margin: 0px;
+	padding: 0px;
+}
+
+.FillRight {
+	width: 100%;
+}
+
+#MenuBar {
+	height: 600px;
+	width: 200px;
+	background-color: #cccccc;
+	margin: 0px;
+	padding: 0px;
+}
+
+#SlaveStatScreen{
+	height: 600px;
+	background-color: #333333;
+	color: white;
+	margin: 0px;
+	padding: 0px;
+}
+
+#SlaveStatScreen table {
+	margin-left: 10px;
+	margin-top: 15px;
+}
+
+#SlaveDataTable  td {
+	padding-right: 5px;
+}
+
+#SlaveSexStatTable {
+	float:left;
+}
+
+#SlaveObedienceTable {
+	padding-left: 40px;
+}
+
+.StatBar {
+	height: 15px;
+	width: 20px;
+	background-color: #dddddd;
+	border: 1px solid white;
+	border-radius: 10%;
+}
